@@ -17,7 +17,7 @@ export default function Header({
       {/* Top micro bar */}
       <div className="header-top">
         <div className="brand-section">
-          <span className="brand-title caps">EXHIBIT // T-SHIRT ARCHIVE</span>
+          <span className="brand-title caps">EXHIBIT </span>
           <span className="brand-tag caps mono">SERIES 2026</span>
         </div>
 
